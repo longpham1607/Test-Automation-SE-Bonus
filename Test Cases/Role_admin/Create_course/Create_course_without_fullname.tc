@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_course_without_fullname</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc68d95d-f87e-40f0-bfa0-7bdc719575f5</testCaseGuid>
+</TestCaseEntity>

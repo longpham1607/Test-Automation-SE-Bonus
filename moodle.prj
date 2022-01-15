@@ -6,6 +6,7 @@
    <UUID>924cfd46-8227-4e9a-9190-d3caf49d4f03</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\Katalon\Test-Automation-SE-Bonus\moodle.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
