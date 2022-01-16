@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='yui_3_17_2_1_1642253282396_554']</value>
+         <value>//a[contains(text(),'Do Thanh Tung')]</value>
       </entry>
       <entry>
          <key>CSS</key>

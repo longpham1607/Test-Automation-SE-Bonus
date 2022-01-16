@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='action_link61e2f15fab35213']</value>
+         <value>//div[@id='action-menu-2-menu']/div/a</value>
       </entry>
       <entry>
          <key>CSS</key>

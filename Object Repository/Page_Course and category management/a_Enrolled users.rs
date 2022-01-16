@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='action_link61e2ce508ad1a61']</value>
+         <value>//div[@id='course-detail']/div/div[2]/div/a[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#action_link61e2ce508ad1a61</value>
+         <value>#action_link61e402139e50755</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,14 +28,14 @@
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://localhost/user/index.php?id=3</value>
+      <value>http://localhost/user/index.php?id=5</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>action_link61e2ce508ad1a61</value>
+      <value>action_link61e402139e50755</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,14 +56,14 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;action_link61e2ce508ad1a61&quot;)</value>
+      <value>id(&quot;action_link61e402139e50755&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='action_link61e2ce508ad1a61']</value>
+      <value>//a[@id='action_link61e402139e50755']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[@href='http://localhost/user/index.php?id=3']</value>
+      <value>//a[@href='http://localhost/user/index.php?id=5']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,20 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='action_link61e2ce508ad1a61']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://localhost/user/index.php?id=3']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

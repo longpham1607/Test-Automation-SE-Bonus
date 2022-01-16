@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='form_autocomplete_suggestions-1642252174522']/li[6]/span/img</value>
+         <value>(//img[contains(@src,'http://localhost/theme/image.php/boost/core/1641823572/u/f2')])[16]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

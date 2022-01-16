@@ -27,35 +27,26 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_moodle1 Log in to 
 
 WebUI.click(findTestObject('Object Repository/Page_moodle1 Log in to the site/button_Log in'))
 
-WebUI.click(findTestObject('Object Repository/Page_Dashboard/span_Site administration'))
+WebUI.click(findTestObject('Object Repository/Page_Dashboard/a_Site administration'))
 
 WebUI.click(findTestObject('Object Repository/Page_moodle Administration Search/a_Users'))
 
 WebUI.click(findTestObject('Object Repository/Page_moodle Administration Search/a_Browse list of users'))
 
-WebUI.click(findTestObject('Object Repository/Page_moodle Administration Users Accounts B_dce4f5/a_Do Thanh Tung'))
+WebUI.click(findTestObject('Object Repository/Page_moodle Administration Users Accounts B_dce4f5/a_thanh tung'))
 
-WebUI.click(findTestObject('Object Repository/Page_Do Thanh Tung Public profile/a_Users'))
+WebUI.click(findTestObject('Object Repository/Page_thanh tung Public profile/a_Users'))
 
-WebUI.click(findTestObject('Object Repository/Page_moodle Participants/i_longpham1gmail.com_icon fa fa-pencil fa-fw'))
+WebUI.click(findTestObject('Object Repository/Page_moodle Participants/i_thanhtung123gmail.com_icon fa fa-pencil fa-fw'))
 
 WebUI.click(findTestObject('Object Repository/Page_moodle Participants/span_'))
 
-WebUI.click(findTestObject('Object Repository/Page_moodle Participants/li_Student'))
+WebUI.click(findTestObject('Object Repository/Page_moodle Participants/li_Teacher'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_moodle Participants/select_ManagerTeacherNon-editing teacherStudent'), 
-    '5', true)
+    '3', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_moodle Participants/select_ManagerTeacherNon-editing teacherStudent'), 
-    '5', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_moodle Participants/select_ManagerTeacherNon-editing teacherStudent'), 
-    '5', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_moodle Participants/select_ManagerTeacherNon-editing teacherStudent'), 
-    '5', true)
-
-WebUI.click(findTestObject('Object Repository/Page_moodle Participants/i_concat(pham long, , s role assignments)_i_6053ce'))
+WebUI.click(findTestObject('Object Repository/Page_moodle Participants/i_concat(thanh tung, , s role assignments)__796f1b'))
 
 WebUI.closeBrowser()
 

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//section[@id='region-main']/div/ul/li[3]/a</value>
+         <value>//a[contains(text(),'Courses')]</value>
       </entry>
       <entry>
          <key>CSS</key>

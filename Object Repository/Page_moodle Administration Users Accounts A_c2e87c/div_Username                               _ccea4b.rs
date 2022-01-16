@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='yui_3_17_2_1_1642241711744_390']</value>
+         <value>//fieldset[@id='id_moodle']/div</value>
       </entry>
       <entry>
          <key>CSS</key>

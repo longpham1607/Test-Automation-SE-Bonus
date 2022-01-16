@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='all-2']/div/div[19]/div/a/div/img</value>
+         <value>//img[contains(@src,'http://localhost/theme/image.php/boost/survey/1641823572/icon')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

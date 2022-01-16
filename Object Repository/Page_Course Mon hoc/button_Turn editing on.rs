@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='single_button61e2e89d0cf3a1']</value>
+         <value>//header[@id='page-header']/div/div/div/div[2]/div[2]/div/form/button</value>
       </entry>
       <entry>
          <key>CSS</key>

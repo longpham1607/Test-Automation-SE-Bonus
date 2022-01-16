@@ -37,17 +37,26 @@ WebUI.click(findTestObject('Object Repository/Page_Course and category managemen
 
 WebUI.click(findTestObject('Object Repository/Page_Course and category management/a_Enrolled users'))
 
-WebUI.click(findTestObject('Object Repository/Page_CS123 Participants/input_Participants_btn btn-secondary my-1'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CS123 Participants/select_Manager            Teacher          _ffc00f'), 
-    '3', true)
+WebUI.click(findTestObject('Object Repository/Page_CS123 Participants/input_With selected users_btn btn-secondary my-1'))
 
 WebUI.click(findTestObject('Object Repository/Page_CS123 Participants/span_'))
 
-WebUI.click(findTestObject('Object Repository/Page_CS123 Participants/small_tungdo123gmail.com'))
+WebUI.click(findTestObject('Object Repository/Page_CS123 Participants/small_thanhtung123gmail.com'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CS123 Participants/select_pham long    longpham1gmail.com     _bc07f6'), 
-    '3', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CS123 Participants/select_nguyen hoang son    hoangson123gmail_18c5f4'), 
+    '16', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CS123 Participants/select_nguyen hoang son    hoangson123gmail_18c5f4'), 
+    '16', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CS123 Participants/select_nguyen hoang son    hoangson123gmail_18c5f4'), 
+    '16', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CS123 Participants/select_nguyen hoang son    hoangson123gmail_18c5f4'), 
+    '16', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CS123 Participants/select_nguyen hoang son    hoangson123gmail_18c5f4'), 
+    '16', true)
 
 WebUI.click(findTestObject('Object Repository/Page_CS123 Participants/button_Enrol users'))
 

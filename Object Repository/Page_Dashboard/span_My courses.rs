@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='nav-drawer']/nav/ul/li[5]/div/div/div/span[2]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Private files'])[1]/following::span[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

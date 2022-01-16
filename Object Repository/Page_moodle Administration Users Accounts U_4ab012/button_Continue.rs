@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='single_button61e2a22a8a3fb15']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip Admin bookmarks'])[1]/preceding::button[1]</value>
       </entry>
       <entry>
          <key>CSS</key>

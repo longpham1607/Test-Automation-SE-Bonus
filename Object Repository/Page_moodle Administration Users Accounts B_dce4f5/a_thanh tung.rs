@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Software Engineer</name>
+   <name>a_thanh tung</name>
    <tag></tag>
-   <elementGuidId>b2eb47ed-636a-48b9-9e56-f874201037f6</elementGuidId>
+   <elementGuidId>b5b00cee-9616-4a52-80b0-87a139494e01</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Software Engineer')]</value>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1642331689717_554</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#yui_3_17_2_1_1642252157305_260</value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'thanh tung')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -24,122 +24,115 @@
       <value>a</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>float-left coursename aalink</value>
-   </webElementProperties>
-   <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://localhost/course/management.php?categoryid=1&amp;courseid=2</value>
+      <value>../user/view.php?id=16&amp;course=1</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>yui_3_17_2_1_1642252157305_260</value>
+      <value>yui_3_17_2_1_1642331689717_554</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Software Engineer</value>
+      <value>thanh tung</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1642252157305_260&quot;)</value>
+      <value>id(&quot;yui_3_17_2_1_1642331689717_554&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='yui_3_17_2_1_1642252157305_260']</value>
+      <value>//a[@id='yui_3_17_2_1_1642331689717_554']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='yui_3_17_2_1_1642252157305_59']/div/a</value>
+      <value>//td[@id='yui_3_17_2_1_1642331689717_555']/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Software Engineer')]</value>
+      <value>//a[contains(text(),'thanh tung')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Software Engineer bulk action selection'])[1]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Never'])[1]/following::a[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon hoc'])[1]/following::a[8]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='minhkhoa123@gmail.com'])[1]/following::a[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing all 2 courses'])[1]/preceding::a[8]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='thanhtung123@gmail.com'])[1]/preceding::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulk actions for selected courses'])[1]/preceding::a[8]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a new user'])[1]/preceding::a[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Software Engineer']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='thanh tung']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[@href='http://localhost/course/management.php?categoryid=1&amp;courseid=2']</value>
+      <value>//a[contains(@href, '../user/view.php?id=16&amp;course=1')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/div/a</value>
+      <value>//tr[4]/td/a</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='yui_3_17_2_1_1642244411702_252']</value>
+      <value>//a[@id='yui_3_17_2_1_1642331604768_554']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='yui_3_17_2_1_1642244411702_59']/div/a</value>
+      <value>//td[@id='yui_3_17_2_1_1642331604768_555']/a</value>
    </webElementXpaths>
 </WebElementEntity>

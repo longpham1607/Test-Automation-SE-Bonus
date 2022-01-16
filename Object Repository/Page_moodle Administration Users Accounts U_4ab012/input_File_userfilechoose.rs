@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='filepicker-button-61e2a453be4d2']</value>
+         <value>//fieldset/div[2]/div/input</value>
       </entry>
       <entry>
          <key>CSS</key>

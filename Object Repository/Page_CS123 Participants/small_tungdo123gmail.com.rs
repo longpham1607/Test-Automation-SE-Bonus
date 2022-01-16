@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='form_autocomplete_suggestions-1642253908466']/li[5]/span/span[2]/small</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin User'])[4]/preceding::small[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

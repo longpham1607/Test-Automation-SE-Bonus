@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_concat(Ly Gia Man, , s role assignments)__f5af2d</name>
+   <name>i_concat(thanh tung, , s role assignments)__796f1b</name>
    <tag></tag>
-   <elementGuidId>ecfcefa2-77c7-48b0-bc1e-9970b41bce81</elementGuidId>
+   <elementGuidId>3b02a657-cdf5-4a7c-a7a7-b9644f0cceac</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//span/a/i</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -48,14 +49,14 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;yui_3_17_2_1_1642253285686_23&quot;)/a[1]/i[@class=&quot;icon fa fa-floppy-o fa-fw&quot;]</value>
+      <value>id(&quot;yui_3_17_2_1_1642331693665_23&quot;)/a[1]/i[@class=&quot;icon fa fa-floppy-o fa-fw&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='yui_3_17_2_1_1642253285686_23']/a/i</value>
+      <value>//span[@id='yui_3_17_2_1_1642331693665_23']/a/i</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,5 +64,12 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/a/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='yui_3_17_2_1_1642331608323_23']/a/i</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='all-3']/div/div[17]/div/a/div</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Information about the Page activity'])[1]/following::div[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
