@@ -131,4 +131,64 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Role_admin/Custom_Dashboard</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>4c6631c4-cf7d-4cc1-93dd-a33df02ea202</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Authentication/Login_with_wrong_password</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9e409eaf-7859-4943-b028-ba0480401bed</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Role teacher/Add_forum_for_specific_course</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c699a962-e681-4e60-bab1-bcd87164f807</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Role teacher/Create_assigment_without_setting_date</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>37cf9432-b5b6-405b-9036-68e742b67106</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Role teacher/Create_assignment_with_date</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>43024f5a-3778-47ec-ab07-1fb3a85bdef8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Role teacher/Check_assigment_exist</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>836a1e5d-7cce-47b6-9646-b25206f71136</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Role teacher/Create_event_on_calendar</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3cad38be-c1b1-4f0b-accc-e0a27aa9e6cb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Role teacher/View_grade_of_course</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5a50687f-8593-4987-85b2-c1a5a44e60fa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Role teacher/View_grade_of_student</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f4f43a77-2294-476c-bc18-91a3136fe3b6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Role teacher/Delete_event_on_calendar</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>93bc45cb-1213-4357-8601-f48d85024d83</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Role teacher/Remove_assigment</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
